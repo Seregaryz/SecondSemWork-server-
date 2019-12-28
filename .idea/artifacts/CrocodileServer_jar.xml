@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CrocodileServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CrocodileServer_jar</output-path>
+    <root id="archive" name="CrocodileServer.jar">
+      <element id="module-output" name="CrocodileServer" />
+    </root>
+  </artifact>
+</component>
